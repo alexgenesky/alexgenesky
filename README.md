@@ -1,6 +1,6 @@
 @alexgenesky - Georgia Southern University
 
-<ln>Currently learning HTML, CSS, Javascript, and SQL
+<ln>Currently learning Python, HTML, CSS, Javascript, and SQL
 
 <!---
 alexgenesky/alexgenesky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
