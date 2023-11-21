@@ -1,4 +1,4 @@
-@alexgenesky - Georgia Southern University
+@alexgenesky - Graduated from Georgia Southern University with a BBA in Information Systems
 
 <ln>Currently learning Python, HTML, CSS, Javascript, and SQL
 
